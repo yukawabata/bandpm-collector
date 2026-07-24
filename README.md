@@ -1,1 +1,1 @@
-# bandpm-collector
+# BandPM Collector
